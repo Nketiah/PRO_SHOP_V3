@@ -1,0 +1,7 @@
+export const BASE_URL = 'http://localhost:9000/api/v1'
+export const PRODUCTS_URL = '/products'
+export const ORDERS_URL = '/orders'
+export const USERS_URL = '/users'
+export const LOGIN_URL = '/login'
+export const REGISTER_URL = '/register'
+export const LOGOUT_URL = '/logout'
