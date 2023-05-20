@@ -1,4 +1,16 @@
 self.__RSC_CSS_MANIFEST={
-  "cssImports": {},
-  "cssModules": {}
+  "cssImports": {
+    "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\app\\page.tsx": [
+      "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\node_modules\\@glidejs\\glide\\dist\\css\\glide.core.css"
+    ],
+    "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\app\\layout.tsx": [
+      "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\app\\page": [
+      "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\app\\globals.css",
+      "C:\\Users\\Administrator\\Documents\\TOOLING\\PRO_SHOP_V3\\frontend\\node_modules\\@glidejs\\glide\\dist\\css\\glide.core.css"
+    ]
+  }
 }
